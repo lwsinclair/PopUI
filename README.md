@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kelnishi-popui-badge.png)](https://mseep.ai/app/kelnishi-popui)
+
 # PopUI - Collaborative UX for Claude Desktop
 
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey?logo=apple)
